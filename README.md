@@ -1,1 +1,1 @@
-# Git project
+# Git project. This project demonstrates branching and merging.
